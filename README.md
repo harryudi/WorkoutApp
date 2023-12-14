@@ -1,3 +1,7 @@
+
+
+<img width="935" alt="workout" src="https://github.com/harryudi/WorkoutApp/assets/111028346/1445441e-b47d-41c7-95f5-e1fab5a184e6">
+
 # Workout App
 
 Welcome to the Workout App repository! This project is designed to help users manage their workouts by providing a platform to add, view, and delete workout details.
